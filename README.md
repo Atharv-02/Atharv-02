@@ -20,12 +20,14 @@ I build web applications and experiment with AI-powered systems.
 
 My work sits around full-stack development, applied machine learning, OCR/computer vision, and LLM-based product ideas. I enjoy turning rough ideas into usable interfaces, backend flows, and intelligent features that feel practical instead of just experimental.
 
-Currently focused on:
+---
 
-- Building full-stack web apps with JavaScript/TypeScript
-- Exploring AI/ML workflows with Python and notebooks
-- Working with LLMs, agents, and AI-assisted products
-- Improving backend APIs, deployment, and product polish
+### Focus
+
+- Web development with JavaScript, TypeScript, React, and Node.js
+- AI/ML experiments with Python, OCR, and computer vision
+- Exploring LLM apps, agents, and intelligent product workflows
+- Learning deployment, Docker, and Kubernetes
 
 ---
 
@@ -57,15 +59,6 @@ Currently focused on:
 | [ocr-teseract-python](https://github.com/Atharv-02/ocr-teseract-python) | OCR with Python |
 | [kube-app](https://github.com/Atharv-02/kube-app) | Deployment and Kubernetes practice |
 | [Github-Users-Search](https://github.com/Atharv-02/Github-Users-Search) | API-driven frontend app |
-
----
-
-### GitHub Stats
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Atharv-02&show_icons=true&theme=default&hide_border=true" alt="Atharv's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-02&layout=compact&hide_border=true" alt="Top languages" />
-</p>
 
 ---
 
