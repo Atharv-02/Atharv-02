@@ -29,16 +29,6 @@ I build web applications and experiment with intelligent systems.
 
 My work sits around full-stack development, applied machine learning, OCR/computer vision, and LLM-based product ideas. I enjoy turning rough ideas into clean interfaces, backend flows, and useful AI-powered features.
 
-<pre>
-const atharv = {
-  role: "Full-Stack Developer",
-  focus: ["Web Apps", "AI/ML", "LLMs", "Computer Vision"],
-  stack: ["React", "Next.js", "Node.js", "Python", "Docker"],
-  currentlyExploring: ["AI agents", "RAG apps", "Kubernetes", "Production systems"],
-  mindset: "Build practical software that feels sharp, useful, and reliable"
-};
-</pre>
-
 ---
 
 ### Tech Stack
