@@ -42,16 +42,16 @@ My work sits around full-stack development, applied machine learning, OCR/comput
 ### GitHub Overview
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Atharv-02&theme=github_dark" alt="Profile summary" />
+  <img width="820" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Atharv-02&theme=github_dark" alt="Profile summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Atharv-02&theme=github_dark" alt="Repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Atharv-02&theme=github_dark" alt="Most commit language" />
+  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Atharv-02&theme=github_dark" alt="Repos per language" />
+  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Atharv-02&theme=github_dark" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Atharv-02&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+  <img width="820" src="https://streak-stats.demolab.com?user=Atharv-02&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
