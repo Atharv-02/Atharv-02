@@ -1,7 +1,7 @@
-<h1 align="center">Atharv Gulati</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=180&section=header&text=Atharv%20Gulati&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 <p align="center">
-  Web developer building full-stack apps, AI/ML experiments, and LLM-powered product experiences.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&color=00C9FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;AI%2FML+and+LLM+Explorer;Building+useful+intelligent+product+experiences;React+%7C+Node.js+%7C+Python+%7C+Docker" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,33 +17,33 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Atharv-02&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/Atharv-02?label=Followers&style=flat&color=0e75b6" />
+  <img src="https://komarev.com/ghpvc/?username=Atharv-02&label=Profile%20Views&color=00c9ff&style=flat" />
+  <img src="https://img.shields.io/github/followers/Atharv-02?label=Followers&style=flat&color=92fe9d" />
 </p>
 
 ---
 
-### About
+### About Me
 
-I build web applications and experiment with intelligent systems that turn rough ideas into usable products.
+I build web applications and experiment with AI-powered systems.
 
-My work sits around full-stack development, applied machine learning, OCR/computer vision, and LLM-based workflows. I enjoy building practical interfaces, backend flows, and AI features that feel useful instead of just experimental.
+My work sits around full-stack development, applied machine learning, OCR/computer vision, and LLM-based product ideas. I like turning rough ideas into usable interfaces, backend flows, and intelligent features that feel practical instead of just experimental.
 
 ---
 
-### Currently Exploring
+### What I Am Building Around
 
 - Full-stack web apps with React, Next.js, Node.js, and TypeScript
-- AI/ML workflows with Python, OCR, and computer vision
-- LLM apps, AI assistants, retrieval systems, and agent workflows
-- Deployment fundamentals with Docker, Kubernetes, and cloud-ready architectures
+- AI/ML experiments with Python, OCR, and computer vision
+- LLM apps, AI assistants, retrieval workflows, and agentic product ideas
+- Deployment, Docker, Kubernetes, and production-minded engineering
 
 ---
 
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,pytorch,tensorflow,html,css,tailwind,mongodb,git,github,docker,kubernetes&perline=9" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,pytorch,tensorflow,html,css,tailwind,mongodb,git,github,docker,kubernetes&perline=9" />
 </p>
 
 ---
@@ -65,14 +65,11 @@ My work sits around full-stack development, applied machine learning, OCR/comput
 
 ---
 
-### Areas I Like Building In
+### Trophies
 
-| Area | What I work on |
-| --- | --- |
-| Web Development | Frontend interfaces, backend APIs, dashboards, and deployed web apps |
-| AI/ML | OCR, computer vision, notebooks, model experiments, and applied ML workflows |
-| LLMs | AI assistants, retrieval-based apps, agent workflows, and intelligent UX |
-| DevOps | Docker, Kubernetes basics, deployments, and production-minded workflows |
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Atharv-02&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12" />
+</p>
 
 ---
 
@@ -90,8 +87,6 @@ My work sits around full-stack development, applied machine learning, OCR/comput
 
 ### Connect
 
-I am interested in web products, AI/ML systems, LLM applications, and projects where software becomes genuinely useful.
-
 <p align="center">
   <a href="mailto:your.email@example.com">Email</a>
   |
@@ -99,3 +94,5 @@ I am interested in web products, AI/ML systems, LLM applications, and projects w
   |
   <a href="https://github.com/Atharv-02">GitHub</a>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer" />
