@@ -1,75 +1,72 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=180&section=header&text=Atharv%20Gulati&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:0969DA,100:7C3AED&height=180&section=header&text=Atharv%20Gulati&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=35" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&color=00C9FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;AI%2FML+and+LLM+Explorer;Building+useful+intelligent+product+experiences;React+%7C+Node.js+%7C+Python+%7C+Docker" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=750&lines=Full-Stack+Developer;AI%2FML+and+LLM+Explorer;Building+clean+interfaces+and+smart+systems;React+%7C+Node.js+%7C+Python+%7C+Docker" alt="Typing animation" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Atharv-02">
-    <img src="https://img.shields.io/badge/GitHub-Atharv--02-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Atharv--02-0D1117?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-Atharv%20Gulati-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Atharv%20Gulati-0969DA?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Atharv-02&label=Profile%20Views&color=0969da&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Atharv-02?label=Followers&style=flat&color=7c3aed" alt="GitHub followers" />
+</p>
 
 ---
 
-### About Me
+### About
 
-I build web applications and experiment with AI-powered systems.
+I build web applications and experiment with intelligent systems.
 
-My work sits around full-stack development, applied machine learning, OCR/computer vision, and LLM-based product ideas. I like turning rough ideas into usable interfaces, backend flows, and intelligent features that feel practical instead of just experimental.
+My work sits around full-stack development, applied machine learning, OCR/computer vision, and LLM-based product ideas. I enjoy turning rough ideas into clean interfaces, backend flows, and useful AI-powered features.
 
----
-
-### What I Am Building Around
-
-- Full-stack web apps with React, Next.js, Node.js, and TypeScript
-- AI/ML experiments with Python, OCR, and computer vision
-- LLM apps, AI assistants, retrieval workflows, and agentic product ideas
-- Deployment, Docker, Kubernetes, and production-minded engineering
+<pre>
+const atharv = {
+  role: "Full-Stack Developer",
+  focus: ["Web Apps", "AI/ML", "LLMs", "Computer Vision"],
+  stack: ["React", "Next.js", "Node.js", "Python", "Docker"],
+  currentlyExploring: ["AI agents", "RAG apps", "Kubernetes", "Production systems"],
+  mindset: "Build practical software that feels sharp, useful, and reliable"
+};
+</pre>
 
 ---
 
 ### Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,pytorch,tensorflow,html,css,tailwind,mongodb,git,github,docker,kubernetes&perline=9" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,pytorch,tensorflow,html,css,tailwind,mongodb,git,github,docker,kubernetes&perline=9" alt="Tech stack" />
 </p>
 
 ---
 
-### GitHub Stats
+### GitHub Overview
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Atharv-02&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atharv-02&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Atharv-02&theme=github_dark" alt="Profile summary" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Atharv-02&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Atharv-02&theme=github_dark" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Atharv-02&theme=github_dark" alt="Most commit language" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atharv-02&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
-### Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Atharv-02&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12" />
+  <img src="https://streak-stats.demolab.com?user=Atharv-02&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 </p>
 
 ---
 
-### Selected Work
+### Selected Projects
 
 | Project | Focus |
 | --- | --- |
@@ -91,4 +88,4 @@ My work sits around full-stack development, applied machine learning, OCR/comput
   <a href="https://github.com/Atharv-02">GitHub</a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:92FE9D,100:00C9FF&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,55:0969DA,100:0D1117&height=120&section=footer" />
