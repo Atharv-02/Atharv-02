@@ -1,107 +1,59 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:0969DA,100:7C3AED&height=185&section=header&text=Atharv%20Gulati&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=35" />
+# Atharv Gulati
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=900&color=58A6FF&center=true&vCenter=true&width=780&lines=Full-Stack+Developer;AI%2FML+and+LLM+Explorer;Building+clean+interfaces+and+smart+systems;React+%7C+Node.js+%7C+Python+%7C+Docker" alt="Typing animation" />
-</p>
+Full-stack developer focused on practical web products, applied AI/ML, and deployment-ready systems.
 
-<p align="center">
-  <a href="https://github.com/Atharv-02">
-    <img src="https://img.shields.io/badge/GitHub-Atharv--02-0D1117?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-Atharv%20Gulati-0969DA?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+I like building software that moves from rough idea to usable product: clean interfaces, reliable backend flows, useful automation, and intelligent features powered by machine learning or LLMs.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Atharv-02&label=Profile%20Views&color=0969da&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Atharv-02?label=Followers&style=flat&color=7c3aed" alt="GitHub followers" />
-</p>
+## Current Focus
 
----
+- Building full-stack applications with React, Next.js, Node.js, and TypeScript
+- Working with Python for applied AI/ML, OCR, and computer vision projects
+- Exploring LLM applications, retrieval workflows, agents, and intelligent product experiences
+- Practicing production workflows with Docker, Kubernetes, and cloud deployment basics
 
-### 👨‍💻 About
+## Tech Stack
 
-I am a full-stack developer who likes building practical software at the intersection of web, AI/ML, and product engineering.
+**Languages:** JavaScript, TypeScript, Python, C++, SQL
 
-I enjoy taking ideas from rough concepts to usable products: clean interfaces, reliable backend flows, useful automations, and intelligent features powered by machine learning or LLMs.
+**Frontend:** React, Next.js, HTML, CSS, Tailwind CSS
 
-Right now, I am focused on sharpening my work across full-stack web development, applied AI, computer vision, and deployment-ready systems.
+**Backend:** Node.js, Express, REST APIs, MongoDB
 
----
+**AI/ML:** Python, PyTorch, TensorFlow, OCR, computer vision, LLM workflows
 
-### 🚀 What I Am Working On
+**Tools:** Git, GitHub, Docker, Kubernetes, Linux
 
-- Building full-stack web apps with React, Next.js, Node.js, and TypeScript
-- Exploring AI/ML workflows with Python, OCR, and computer vision
-- Learning more about LLM apps, agents, RAG systems, and intelligent UX
-- Practicing deployment workflows with Docker, Kubernetes, and production-minded tooling
-
----
-
-### 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,python,pytorch,tensorflow,html,css,tailwind,mongodb,git,github,docker,kubernetes&perline=9" alt="Tech stack" />
-</p>
-
----
-
-### 📊 GitHub Overview
-
-<p align="center">
-  <img width="820" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Atharv-02&theme=github_dark" alt="Profile summary" />
-</p>
-
-<p align="center">
-  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Atharv-02&theme=github_dark" alt="Repos per language" />
-  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Atharv-02&theme=github_dark" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img width="820" src="https://streak-stats.demolab.com?user=Atharv-02&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-</p>
-
----
-
-### 🏗️ Areas I Like Building In
-
-| Area | What I Build |
-| --- | --- |
-| Full-Stack Web | Frontend interfaces, backend APIs, dashboards, and deployed apps |
-| AI/ML | OCR, computer vision, notebooks, model experiments, and applied ML workflows |
-| LLM Apps | AI assistants, retrieval workflows, agents, and intelligent product UX |
-| DevOps | Docker, Kubernetes basics, deployments, and production-minded workflows |
-
----
-
-### 🔥 Selected Projects
+## Selected Projects
 
 | Project | Focus |
 | --- | --- |
 | [muj-convo-2023](https://github.com/Atharv-02/muj-convo-2023) | Full-stack event web application |
-| [Vehicle-License-Plate-Recognition](https://github.com/Atharv-02/Vehicle-License-Plate-Recognition) | Computer vision and OCR experiment |
-| [ocr-teseract-python](https://github.com/Atharv-02/ocr-teseract-python) | OCR with Python |
-| [kube-app](https://github.com/Atharv-02/kube-app) | Deployment and Kubernetes practice |
-| [Github-Users-Search](https://github.com/Atharv-02/Github-Users-Search) | API-driven frontend app |
+| [Vehicle-License-Plate-Recognition](https://github.com/Atharv-02/Vehicle-License-Plate-Recognition) | Computer vision and OCR pipeline |
+| [ocr-teseract-python](https://github.com/Atharv-02/ocr-teseract-python) | OCR experimentation with Python |
+| [kube-app](https://github.com/Atharv-02/kube-app) | Docker/Kubernetes deployment practice |
+| [Github-Users-Search](https://github.com/Atharv-02/Github-Users-Search) | API-driven frontend application |
 
----
+## GitHub Overview
 
-### 🤝 Connect
+<table>
+  <tr>
+    <td width="50%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Atharv-02&theme=github" alt="GitHub stats" />
+    </td>
+    <td width="50%">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Atharv-02&theme=github" alt="Most used languages" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  I am always interested in web products, AI systems, LLM applications, and projects where software becomes genuinely useful.
-</p>
+## What I Care About
 
-<p align="center">
-  <a href="mailto:your.email@example.com">Email</a>
-  |
-  <a href="https://www.linkedin.com/in/your-linkedin">LinkedIn</a>
-  |
-  <a href="https://github.com/Atharv-02">GitHub</a>
-</p>
+- Clear product thinking before writing code
+- Interfaces that are easy to understand and use
+- Backends that are simple, reliable, and maintainable
+- AI features that solve real user problems instead of feeling decorative
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,55:0969DA,100:0D1117&height=125&section=footer" />
+## Connect
+
+- GitHub: [Atharv-02](https://github.com/Atharv-02)
+- LinkedIn: [Atharv Gulati](https://www.linkedin.com/in/atharv-gulati-797620226/)
